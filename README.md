@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @abdullahsunnu
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+abdullahsunnu/abdullahsunnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes
+--->
+
+Hello, my name is Hacı Abdullah Sunni, I am dealing with computer programming, I am currently a student at karamanoğlu mehmetbey university 
+I know lanuages such as Python, C#, ASP.NET, SQL, HTML&CSS. If you want to cooperate with me, you can reach us at abdullahsunnu2001@gmail.com.
